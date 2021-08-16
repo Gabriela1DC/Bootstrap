@@ -1,0 +1,78 @@
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #edc0bf;
+    background: linear-gradient(90deg, #f3a7dc 0,#c4caef 58%);
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  h1{
+      text-align: center;
+      color: rgb(255, 255, 255);
+  }
+  
+  input{
+    color:#fff;
+    padding:17px;
+    outline:none;
+    font-size: 30px;
+    border-radius: 25%;
+  }
+
+  .maincolor{
+    background-color: #000;
+  }
+  
+  .num{
+    width: 64px;
+    height: 67px;
+    margin: 2px;
+    border: none;
+  }
+  
+  .text{
+    width: 160px;
+    height: 26px;
+    border-radius: 22px;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 12px;
+  }
+  
+  .text1{
+    width: 24px;
+    height: 26px;
+    border-radius: 22px;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom:12px;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+
+  .container{
+    display: inline-block;
+  }
+  
+  .blue{
+    background-color:#0cd0cd;
+  }
+  
+  .pink{
+    background-color:#cf1596;
+  }
+  
+  .green{
+    background-color:#aad800;
+  }
+  
+  .pur{
+    background-color:#8c52f0
+  }
+  
+  .ora{
+    background-color:#fcb707;
+  }
